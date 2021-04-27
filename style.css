@@ -1,0 +1,31 @@
+.ball {
+    float: left;
+    width: 60px;
+    height: 60px;
+    line-height: 60px; /* 공 안에 숫자가 수직 가운데 */
+    font-size: 28px;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff; /* 수평 가운데 */
+    text-shadow: 0px 0px 3px rgba(73, 57, 0, .8);
+    margin-right: 6px;
+}
+
+.ball1 {
+    background:rosybrown
+}
+.ball2 {
+    background:yellowgreen
+}
+.ball3 {
+    background:chartreuse
+}
+.ball4 {
+    background:darkkhaki
+}
+.ball5 {
+    background:goldenrod
+}
+.ball6 {
+    background:indianred
+}
